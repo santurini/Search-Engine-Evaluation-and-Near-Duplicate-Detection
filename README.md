@@ -35,5 +35,5 @@ The main way to achieve this is using `pt.Experiment()`.
 
 The aim of this repository is to implement the Universal Hypothesis Test that is explained in the following image:
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91251307/152517117-4ec8e32c-8dc5-498f-989d-416259ab667b.png" style="width:800px">
+  <img src="https://user-images.githubusercontent.com/91251307/185661909-fb532b28-f014-4a05-a9a9-a24914f08464.png" style="width:800px">
 </p>
