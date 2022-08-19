@@ -1,10 +1,10 @@
-# Search-Engine-Evaluation-and-Near-Duplicate-Detection
+# Search Engine Evaluation and Near Duplicate Detection
 ![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Exploiting the PyTerrier library to perform Search Engine Evaluation and Near Duplicate Detection on different datasets.
 
-## PyTerrier
+## PyTerrier - Search Engine Evaluation
 
 PyTerrier is a software framework for information retrieval experiements in Python. 
 
@@ -33,7 +33,7 @@ PyTerrier has a number of useful classes for creating Terrier indices, which can
 PyTerrier aims to make it easy to conduct an information retrieval **experiment**, namely, to run a transformer **pipeline** over a set of queries, and evaluating the outcome using standard information retrieval evaluation metrics based on known relevant documents (obtained from a set relevance assessments, also known as qrels).
 The main way to achieve this is using `pt.Experiment()`.
 
-The aim of this repository is to implement the Universal Hypothesis Test that is explained in the following image:
+## Near Duplicate Detection
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91251307/185661909-fb532b28-f014-4a05-a9a9-a24914f08464.png" style="width:800px">
 </p>
